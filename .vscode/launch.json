@@ -2,6 +2,10 @@ using System;
 
 class Program
 {
+    "configurations": [
+        
+
+    ]
     static void Main()
     {
         while (true)
